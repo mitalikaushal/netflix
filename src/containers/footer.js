@@ -35,9 +35,9 @@ export function FooterContainer() {
                     <Footer.Link href="#">Cookie Preferences</Footer.Link>
                     <Footer.Link href="#">Lega; Notices</Footer.Link>
                 </Footer.Column>
-
-                
             </Footer.Row>
+            <Footer.Break/>
+            <Footer.Text>Netflix United States</Footer.Text>
         </Footer>
     )
 }
